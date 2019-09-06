@@ -1,0 +1,1 @@
+{"jobID":"108f809f-cecc-153d-58c4-e65b4eda53f8","spec":{"type":"policy","cause":{"Message":"","User":"Bernhard Baumgartner \u003cbernhard.baumgartner@dynatrace.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
